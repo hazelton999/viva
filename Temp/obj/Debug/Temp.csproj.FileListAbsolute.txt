@@ -1,0 +1,45 @@
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\Temp.dll.config
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\Temp.dll
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\Temp.pdb
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\EntityFramework.dll
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\EntityFramework.SqlServer.dll
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Helpers.dll
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Mvc.dll
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Razor.dll
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Webpages.Deployment.dll
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Webpages.dll
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Webpages.Razor.dll
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\EntityFramework.xml
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\EntityFramework.SqlServer.xml
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Razor.xml
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Webpages.xml
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Webpages.Deployment.xml
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Webpages.Razor.xml
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Helpers.xml
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\bin\System.Web.Mvc.xml
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\obj\Debug\Temp.csprojResolveAssemblyReference.cache
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\obj\Debug\Temp.dll
+c:\users\nashit khan\documents\visual studio 2013\Projects\Temp\Temp\obj\Debug\Temp.pdb
+K:\Temp\Temp\bin\Temp.dll.config
+K:\Temp\Temp\bin\Temp.dll
+K:\Temp\Temp\bin\Temp.pdb
+K:\Temp\Temp\bin\EntityFramework.dll
+K:\Temp\Temp\bin\EntityFramework.SqlServer.dll
+K:\Temp\Temp\bin\Microsoft.Web.Infrastructure.dll
+K:\Temp\Temp\bin\System.Web.Helpers.dll
+K:\Temp\Temp\bin\System.Web.Mvc.dll
+K:\Temp\Temp\bin\System.Web.Razor.dll
+K:\Temp\Temp\bin\System.Web.Webpages.Deployment.dll
+K:\Temp\Temp\bin\System.Web.Webpages.dll
+K:\Temp\Temp\bin\System.Web.Webpages.Razor.dll
+K:\Temp\Temp\bin\EntityFramework.xml
+K:\Temp\Temp\bin\EntityFramework.SqlServer.xml
+K:\Temp\Temp\bin\System.Web.Razor.xml
+K:\Temp\Temp\bin\System.Web.Webpages.xml
+K:\Temp\Temp\bin\System.Web.Webpages.Deployment.xml
+K:\Temp\Temp\bin\System.Web.Webpages.Razor.xml
+K:\Temp\Temp\bin\System.Web.Helpers.xml
+K:\Temp\Temp\bin\System.Web.Mvc.xml
+K:\Temp\Temp\obj\Debug\Temp.csprojResolveAssemblyReference.cache
+K:\Temp\Temp\obj\Debug\Temp.dll
+K:\Temp\Temp\obj\Debug\Temp.pdb
